@@ -6,6 +6,7 @@ convert a txt file with "*", "0", "1" instead of values for the variables into D
 "1": the variable is positive
 
 example:
+
 *****01010
 
 1111000***
